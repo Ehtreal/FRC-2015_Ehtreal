@@ -23,7 +23,9 @@ public class RobotMap {
 	// Analog sensor IDs
 	public static final int gyro = 0;
 	
-	
+	//Intake motor IDs
+	public static final int intakeTalon1 = 17;
+	public static final int intakeTalon2 = 18;
     // For example to map the left and right motors, you could define the
     // following variables to use with your drivetrain subsystem.
     // public static int leftMotor = 1;
